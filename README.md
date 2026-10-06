@@ -1,8 +1,8 @@
 # Global Climate Change Tracking & Forecasting: EDA and ML Projections for 2100
 
 ## Project Team
-* **İrem Akyol** - 24061617 (Project Lead)
-* **Murat Bilgin** - 23061701
+* **İrem Akyol** - Project Lead
+* **Murat Bilgin** 
 
 ## Project Overview
 This project advances global climate monitoring by leveraging Exploratory Data Analysis (EDA) of historical temperature records to directly support **Sustainable Development Goal (SDG) 13: Climate Action**. By establishing a definitive climate baseline, the analysis highlights the critical historical shift in global land temperatures from a ~8.0°C baseline to over 9.5°C. 
